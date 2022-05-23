@@ -1,0 +1,14 @@
+###############################
+# IDE And System              #
+###############################
+
+# Jetbrains IDE
+.idea/
+
+# MACOSX
+_MACOSX/
+._*
+.DS_STORE
+
+# Windows
+thumbs.db
